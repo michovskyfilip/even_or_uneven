@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="even_or_uneven.vcxproj" Id="449ed625-f08f-4cc6-bdb4-dcfdc5eaac2c" />
+</Solution>
